@@ -1,0 +1,37 @@
+.navegador {
+
+     color: rgb(248, 3, 3);
+}
+.comentarios  {
+
+    color: darkblue;
+}
+
+.imagenes-ilustrativas      {
+    border-width: 3px; 
+    border-color: rgb(20, 14, 14);
+    border-style: solid;
+
+}
+.color-fondo{
+
+     color: lightgreen;   
+}
+
+.italica {
+     font-style: italic;
+}
+
+.subrayado {
+    text-decoration: underline;
+}
+
+.fondo {
+    /* background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%); */
+
+    background-color: rgb(204, 238, 252);
+    /* background:url("https://cdn.discordapp.com/attachments/966887446585430019/972664140936134716/torres_2.jpg" )  */
+}
+
+
+

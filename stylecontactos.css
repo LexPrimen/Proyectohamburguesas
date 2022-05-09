@@ -1,0 +1,54 @@
+.body_contactos{
+
+    background-image: linear-gradient(to top, #0fd850 0%, #f9f047 100%);
+    /* background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);; */
+    font-family: 'Playfair Display', serif;
+    min-height: 100vh;
+    width: 100%;
+    display: flex;
+   
+
+}
+
+.form_form {
+
+    background-color: rgb(85, 74, 134);
+    width: 90%;
+    margin: 200px 200px;
+    max-width: 400px;
+    border-radius: 1em;
+    padding: 3em 1.5em;
+}
+
+.form_container {
+  
+    width: 100%;
+    display: grid;
+    gap: 1em;
+    grid-auto-columns: 100%;
+ 
+  
+    
+ 
+    
+
+ 
+}
+
+.form_title{
+    text-align: center;
+    font-size: 1.9rem;
+    margin-bottom: .4em;
+}
+
+
+@import url (https://fonts.googleapis.com/css2?family=Playfair+Display:ital@1&display=swap');
+
+
+
+
+
+
+   
+
+
