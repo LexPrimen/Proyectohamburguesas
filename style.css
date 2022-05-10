@@ -1,3 +1,102 @@
+.header {
+    background-color: rgb(92, 71, 139);
+    padding: 15px;
+    margin: 15;
+    overflow: hidden;
+    text-align: center;
+    box-shadow: 10 10 10 rgb(0, 0, 0);
+   
+    
+}
+
+.navegadorordenado {
+
+    background-color: rgb(35, 12, 90);
+    padding: 15;
+    margin: 15;
+    overflow: hidden;
+    text-align: center;
+    
+
+
+
+}
+ul #sucursales a:hover{
+
+    background: rgb(150, 180, 17);
+}
+
+
+ul #sucursales a
+{
+    color: rgb(255, 255, 255);
+    background-color: rgb(132, 0, 255);
+    text-decoration: none;
+    padding: 20px;
+    text-decoration: none;
+    border-radius: 40px;
+
+}
+
+
+ul #contactos a:hover
+{
+    background: rgb(150, 180, 17);
+   
+
+}
+
+
+ ul #contactos a
+{
+    color: rgb(255, 255, 255);
+    background-color: rgb(132, 0, 255);
+    padding: 20px;
+    text-decoration: none;
+    border-radius: 40px;
+
+}
+
+ul #combosypromociones a{ 
+    color: rgb(255, 255, 255);
+    background-color: rgb(132, 0, 255);
+    padding: 20px;
+    text-decoration: none;
+    border-radius: 40px;
+}
+
+ul #combosypromociones a:hover {
+    background: rgb(150, 180, 17);
+}
+
+ul #encuestas a {
+    color: rgb(255, 255, 255);
+    background-color: rgb(132, 0, 255);
+    padding: 20px;
+    text-decoration: none;
+    border-radius: 40px;
+}
+
+ul #encuestas a:hover{
+    background: rgb(150, 180, 17);
+}
+
+
+
+
+
+.navli {
+
+    display: inline;
+    padding-left: 60px;
+    text-decoration: none;
+   
+}
+
+
+
+
+
 .navegador {
     text-decoration: none;
     color: rgb(255, 0, 0);
@@ -32,15 +131,22 @@
 .fondo {
     /* background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%); */
 
-    background-color: rgb(204, 238, 252);
+    background-color: rgb(117, 187, 218);
     /* background:url("https://cdn.discordapp.com/attachments/966887446585430019/972664140936134716/torres_2.jpg" )  */
 }
 
 .navul { 
+    padding: 15px;
+    box-shadow: 10 10 10 rgb(0, 0, 0);
+    
 
-    background-color: rgb(29, 29, 29);
+    /* background-color: rgb(29, 29, 29);
     width: 100%;
     list-style-type: none;
-    text-align: center;
+    text-align: center; */
 }
 
+.fondosucursales{
+          background-color: rgb(134, 168, 184);
+      
+}
